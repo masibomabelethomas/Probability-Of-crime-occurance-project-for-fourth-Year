@@ -12,7 +12,7 @@ R/: Holds the R scripts for data processing, modeling, and visualization.
 
 ## Usage
 To replicate the analysis or explore the results, follow these steps:
-Clone the repository: git clone https://github.com/masibomabelethomas/crime-probability-juja.git
+Clone the repository: git clone https://github.com/masibomabelethomas/Probability-Of-crime-occurance-project-for-fourth-Year
 Install the required R packages as mentioned in the R/requirements.R script.
 Execute the R scripts in the R/ directory in the specified order.
 
